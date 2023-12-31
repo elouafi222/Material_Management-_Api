@@ -2,36 +2,32 @@
 
 This project aims to implement a solution for managing hardware resources. It aims to provide a portable, simple, shared, and comprehensive platform for the efficient management of hardware resources.
 
-## Main Objectives
+## Main Objectives:
 
 - Propose a simple and shared platform for managing hardware resources.
 - Address identified gaps in existing ERP solutions concerning the issue.
 
-## Project Contents
+## Project Contents:
 
-### Project Architecture
+### Project Architecture:
 
 ![Class Diagram](img/clientServerArchitecture.png)
 
-### General Design
+## General Design:
 
-#### Use Case Diagrams
+#### Use Case Diagrams:
 
 ![Use Case Diagram](img/useCaseDiagramme.png)
 ![Class Diagram](img/UseCase2.png)
-#### Class Diagrams
+#### Class Diagrams:
 
-![Class Diagram](img/UseCase2.png)
+![Class Diagram](img/classDiagramme.png)
 
-### Database Schema
+## Database Schema:
 
 ![Database Schema](path/to/database_schema.png)
 
-### Graphical Interface Mockups
-
-## How to Contribute
-
-# If you want to contribute to this project, follow these simple steps:
+## How to Contribute:
 
 1. **Clone the Project**: `git clone [project link]`
 2. **Create a Branch**: `git checkout -b your_branch_name`
