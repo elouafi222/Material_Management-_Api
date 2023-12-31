@@ -11,35 +11,23 @@ This project aims to implement a solution for managing hardware resources. It ai
 
 ### Project Architecture
 
-![Class Diagram](path/to/class_diagram.png)
+![Class Diagram](img/clientServerArchitecture.png)
 
 ### General Design
 
 #### Use Case Diagrams
 
-![Use Case Diagram](path/to/use_case_diagram.png)
-
+![Use Case Diagram](img/useCaseDiagramme.png)
+![Class Diagram](img/UseCase2.png)
 #### Class Diagrams
 
-![Class Diagram](path/to/class_diagram.png)
-
-#### Sequence Diagrams
-
-![Sequence Diagram](path/to/sequence_diagram.png)
+![Class Diagram](img/UseCase2.png)
 
 ### Database Schema
-
-# Add the schema of the used database here.
 
 ![Database Schema](path/to/database_schema.png)
 
 ### Graphical Interface Mockups
-
-# Add the mockups of the graphical interface here.
-
-![Mockup 1](path/to/mockup_1.png)
-
-![Mockup 2](path/to/mockup_2.png)
 
 ## How to Contribute
 
@@ -54,15 +42,15 @@ This project aims to implement a solution for managing hardware resources. It ai
 
 ## Project Configuration
 
-# Make sure to configure the project correctly by following these steps:
+Make sure to configure the project correctly by following these steps:
 
-1. **Install Dependencies**: `npm install` or `pip install -r requirements.txt` (depending on your environment).
+1. **Install Dependencies**:`pip install -r requirements.txt` (depending on your environment).
 2. **Configure the Database**: Follow the instructions in the `/database` folder.
 
 ## License
 
-# This project is under the [insert license type] license - see the [LICENSE.md](LICENSE.md) file for more details.
+This project is under the [insert license type] license - see the [LICENSE.md](LICENSE.md) file for more details.
 
 ---
 
-# Feel free to customize this template based on the specifics of your project. If you have any questions or suggestions, don't hesitate to share them.
+Feel free to customize this template based on the specifics of your project. If you have any questions or suggestions, don't hesitate to share them.
