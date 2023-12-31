@@ -1,6 +1,6 @@
-# Hardware Resources Management
+# Material Resources Management
 
-# This project aims to implement a solution for managing hardware resources. It aims to provide a portable, simple, shared, and comprehensive platform for the efficient management of hardware resources.
+This project aims to implement a solution for managing hardware resources. It aims to provide a portable, simple, shared, and comprehensive platform for the efficient management of hardware resources.
 
 ## Main Objectives
 
