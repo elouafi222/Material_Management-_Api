@@ -25,7 +25,7 @@ This project aims to implement a solution for managing hardware resources. It ai
 
 ## Database Schema:
 
-![Database Schema](path/to/database_schema.png)
+![Database Schema](img/Mcd.png)
 
 ## How to Contribute:
 
