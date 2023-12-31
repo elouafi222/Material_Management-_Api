@@ -1,58 +1,68 @@
-# Gestion des Ressources Matérielles
+# Hardware Resources Management
 
-Ce projet a pour objectif la mise en place d'une solution de gestion des ressources matérielles. Il vise à fournir une plateforme portable, simple, partagée et complète pour la gestion efficace des ressources matérielles.
+# This project aims to implement a solution for managing hardware resources. It aims to provide a portable, simple, shared, and comprehensive platform for the efficient management of hardware resources.
 
-## Objectifs Principaux
+## Main Objectives
 
-- Proposer une plateforme de gestion des ressources matérielles simple et partagée.
-- Combler les lacunes identifiées dans les solutions ERP existantes au niveau de la problématique.
+- Propose a simple and shared platform for managing hardware resources.
+- Address identified gaps in existing ERP solutions concerning the issue.
 
-## Contenu du Projet
+## Project Contents
 
-### Diagrammes UML
+### Project Architecture
 
-Ajoutez ici vos diagrammes UML pour la modélisation du système.
+![Class Diagram](path/to/class_diagram.png)
 
-![Diagramme de Classe](chemin/vers/diagramme_de_classe.png)
+### General Design
 
-![Diagramme de Séquence](chemin/vers/diagramme_de_sequence.png)
+#### Use Case Diagrams
 
-### Schéma de la Base de Données
+![Use Case Diagram](path/to/use_case_diagram.png)
 
-Ajoutez ici le schéma de la base de données utilisée.
+#### Class Diagrams
 
-![Schéma de la Base de Données](chemin/vers/schema_base_de_donnees.png)
+![Class Diagram](path/to/class_diagram.png)
 
-### Maquettes de l'Interface Graphique
+#### Sequence Diagrams
 
-Ajoutez ici les maquettes de l'interface graphique.
+![Sequence Diagram](path/to/sequence_diagram.png)
 
-![Maquette 1](chemin/vers/maquette_1.png)
+### Database Schema
 
-![Maquette 2](chemin/vers/maquette_2.png)
+# Add the schema of the used database here.
 
-## Comment Contribuer
+![Database Schema](path/to/database_schema.png)
 
-Si vous souhaitez contribuer à ce projet, suivez ces étapes simples :
+### Graphical Interface Mockups
 
-1. **Cloner le Projet** : `git clone [lien du projet]`
-2. **Créer une Branche** : `git checkout -b nom_de_votre_branche`
-3. **Effectuer vos Modifications**
-4. **Valider les Modifications** : `git commit -m "Description des modifications"`
-5. **Pousser vers la Branche** : `git push origin nom_de_votre_branche`
-6. **Créer une Pull Request** en expliquant les modifications apportées.
+# Add the mockups of the graphical interface here.
 
-## Configuration du Projet
+![Mockup 1](path/to/mockup_1.png)
 
-Assurez-vous de configurer le projet correctement en suivant ces étapes :
+![Mockup 2](path/to/mockup_2.png)
 
-1. **Installer les Dépendances** : `npm install` ou `pip install -r requirements.txt` (selon votre environnement).
-2. **Configurer la Base de Données** : Suivez les instructions dans le dossier `/database`.
+## How to Contribute
 
-## Licence
+# If you want to contribute to this project, follow these simple steps:
 
-Ce projet est sous licence [insérez le type de licence] - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
+1. **Clone the Project**: `git clone [project link]`
+2. **Create a Branch**: `git checkout -b your_branch_name`
+3. **Make Your Changes**
+4. **Commit Changes**: `git commit -m "Description of changes"`
+5. **Push to the Branch**: `git push origin your_branch_name`
+6. **Create a Pull Request** explaining the modifications made.
+
+## Project Configuration
+
+# Make sure to configure the project correctly by following these steps:
+
+1. **Install Dependencies**: `npm install` or `pip install -r requirements.txt` (depending on your environment).
+2. **Configure the Database**: Follow the instructions in the `/database` folder.
+
+## License
+
+# This project is under the [insert license type] license - see the [LICENSE.md](LICENSE.md) file for more details.
 
 ---
 
-N'hésitez pas à personnaliser ce modèle en fonction des spécificités de votre projet. Si vous avez des questions ou des suggestions, n'hésitez pas à les partager.
+# Feel free to customize this template based on the specifics of your project. If you have any questions or suggestions, don't hesitate to share them.
